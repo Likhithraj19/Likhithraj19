@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Likhithraj19 
 - 👀 I’m interested in ... Full stack development
-- 🌱 I’m currently learning :Backend (expressjs and mongoDB
+- 🌱 I’m currently learning :Backend (expressjs and mongoDB)
 - 📫 How to reach me: likhithrj@gmail.com
 
 <!---
