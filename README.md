@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Backend Projects(NodeJs,ExpressJs and MongoDB)**
 
-- 🌱 I’m currently learning **Advanced Backend(NodeJs,ExpressJs and MongoDB)**
+- 🌱 I’m currently learning **Advanced Backend(NodeJs,ExpressJs and MongoDB) and C# Asp.net , MsSql**
 
 - 💬 Ask me about **Javascript,Typescript, React, ExpressJs**
 
