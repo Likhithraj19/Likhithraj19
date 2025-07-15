@@ -7,7 +7,8 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__likhith_raj__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/likhith-raj-7398a9228/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/toxicated_evil) 
+<!--[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__likhith_raj__) -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/likhith-raj-7398a9228/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/toxicated_evil) 
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
